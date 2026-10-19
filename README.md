@@ -88,22 +88,12 @@ I'm looking for **[graduate roles / internships / opportunities]** in **[e.g. SO
 
 ---
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
 <p>
-  <a href="[your LinkedIn link]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[linkedin.com/in/pantelis-pappas-a44086441]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 *Always happy to chat about security, forensics or projects.*
